@@ -1,0 +1,4 @@
+recaptcha_js:
+  output: ckanext-recaptcha/recaptcha.js
+  contents:
+    - scripts/recaptcha.js
